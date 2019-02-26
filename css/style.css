@@ -157,9 +157,7 @@ img, video, audio, iframe, table, form {
   clear:both;
 }
 
-/*/////// LAYOUT ////////*/
-
-@media (min-width: 1108px) {
+/*/////// LAYOUT ////////*
   
 
 .wrapper {
@@ -167,7 +165,6 @@ img, video, audio, iframe, table, form {
   margin: 0 auto;
 }
 
-}
 
 .col-1 {
   float: left;
