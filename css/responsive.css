@@ -57,19 +57,26 @@ right: 4px;
 .col-1 {
   width: 100%;
   margin-left: 0;
+  float: 0;
   
 }
 .col-2 {
   width: 100%;
   margin-left: 0;
+  float: 0;
 }
 .col-3 {
   width: 100%;
   margin-left: 0;
+  float: 0;
 }
 
 .border-right {
   border-right: 0;
+}
+
+#details div {
+  height: auto;
 }
 
 
