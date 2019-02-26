@@ -159,9 +159,14 @@ img, video, audio, iframe, table, form {
 
 /*/////// LAYOUT ////////*/
 
+@media (min-width: 1108px) {
+  
+
 .wrapper {
   width: 960px;
   margin: 0 auto;
+}
+
 }
 
 .col-1 {
