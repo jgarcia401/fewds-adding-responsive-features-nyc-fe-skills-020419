@@ -1,12 +1,27 @@
-@media (min-width: 1108px) {
+@media (man-width: 1100px) {
 
 .wrapper { width: 90%;
   
   
 }
 
-#social { width: 82px 0px 0px 4px auto;
+#social { width: auto;
+position: absolute;
+top: 82px;
+right: 4px;
+
 
 }
+
 }
+
+@media (max-width: 900px) {
+   body { font-size: 85%;
+  }
+  
+  h1 {
+    
+  }
+
+
 
